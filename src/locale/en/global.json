@@ -9,9 +9,9 @@
   "home": {
     "title": "Live the best of Jericoacoara at the Vila",
     "desc": "At Vila Marinella you live the best of Jericoacoara with your family, friends or your loved one.",
-    "viladesc": "The guesthouse is composed of: 🏠 A 120m² house for up to 6 people, with three bedrooms, one of which is a suite with a large double bed, and other two bedrooms with single beds. The house has air conditioning in all bedrooms, complete kitchen and living room, a barbecue area and a terrace overlooking the beach of Jericoacoara. 🛌 Another 3 independent suites, which can be rented separately, with balcony, large double bed, private bathroom, TV, air conditioning and minibar.",
+    "viladesc": "The Vila has two types of accommodation: a house for up to 6 people, with three bedrooms, one of which is an en suite. The house has air conditioning in all bedrooms, a fully equipped kitchen and living room, a barbecue area and a terrace overlooking the beach of Jericoacoara. In addition to the house, there are other three independent suites for up to two people that can be rented separately, with balcony, private bathroom, TV, air conditioning and minibar.",
     "title2": "Jericoacoara",
-    "desc2": "Jericoacoara is a small fishing village with beautiful beaches and a windsurfing and kitesurfing hub, located in Ceará, Brazil."
+    "desc2": "Jericoacoara is located in the state of Ceará, Brazil, and was once a small fishing village. Today it is one of the most beautiful beaches in Brazil and a windsurfing and kitesurfing hub."
   },
 
   "footer": {
@@ -23,17 +23,17 @@
   },
   "pousada": {
     "title": "The Guesthouse",
-    "desc": "The guesthouse is located in a quiet area of Jericoacoara, just 500m (1/3mi) from the Main Street and 1km (1/2mi) from the beach. It has two types of accommodation: a 120m² (1300 ft²) house, 3 bedrooms including a suite, 2 shared bathrooms, a complete living room and kitchen, and a small barbecue area. All rooms have air conditioning and there is free Wifi available. Besides the house, there are other 3 independent suites for up to 2 people, with private bathroom, balcony, air conditioning, minibar, TV and Wi-Fi. To make your experience even more remarkable, the Vila has a beautiful terrace overlooking Jericoacoara's beach."
+    "desc": "The guesthouse is located in a quiet area of Jericoacoara, just 500m from the Main Street and 1km from the main beach. It has two types of accommodations: a house with three bedrooms, one of which is an en suite, two other shared bathrooms, a complete kitchen, living room, and a small barbecue area. All rooms have air conditioning and there is free Wifi available. In addition to the house, there are other three independent bedrooms, with private bathroom, balcony, air conditioning, minibar, TV and WiFi. To make your experience even more remarkable, the Vila has a beautiful terrace overlooking Jericoacoara's beach."
   },
   "acom": {
     "title": "Accommodations",
-    "desc": "Vila Marinella has two types of accommodation: a house with three bedrooms for up to 6 people, and 3 private suites for 2 people",
+    "desc": "Vila Marinella has two types of accommodations: a house with three bedrooms for up to 6 people and three private suites for up to 2 people",
     "title2": "The House",
     "desc2": "A big house for up to 6 people, with three bedrooms, one of which is a suite with a large double bed and the other two bedrooms with single beds. The house has air conditioning in all bedrooms, a complete kitchen and living room, a barbecue area and a terrace overlooking Jericoacoara.",
     "people": "6 people",
     "people1": "2 people",
     "title3": "The Private Rooms",
-    "desc3": "3 private suites for 2 people, with bathroom, air conditioning, TV and minibar."
+    "desc3": "Three private suites for 2 people with private bathroom, balcony, air conditioning, TV and minibar."
   },
   "avila": {
     "title": "Jericoacoara",

@@ -17,9 +17,9 @@ const Home = () => {
 
       <Divider dividerHead={t("home.title")} dividerDesc={t("home.desc")} />
 
-      <div className="grid md:grid-cols-4 bg-sky-700 py-12">
-        <div className="col-span-3 justify-center md:px-8">
-          <div className="grid md:grid-cols-3">
+      <div className="grid md:grid-cols-5 bg-sky-700 py-10">
+        <div className="col-span-4 justify-center md:px-6">
+          <div className="grid md:grid-cols-3 md:grid-rows-2 gap-1.5">
             <img
               src="https://vilamarinellajeri.s3.sa-east-1.amazonaws.com/apousada/fachada.jpg"
               alt="pousadafrente"
@@ -32,8 +32,7 @@ const Home = () => {
               src="https://vilamarinellajeri.s3.sa-east-1.amazonaws.com/acom/suites/varanda.jpg"
               alt="pousadavaranda"
             />
-          </div>
-          <div className="grid md:grid-cols-2">
+
             <img
               src="https://vilamarinellajeri.s3.sa-east-1.amazonaws.com/acom/casa/achurrasqueira.jpg"
               alt="pousadachurrasqueira"
@@ -42,12 +41,18 @@ const Home = () => {
               src="https://vilamarinellajeri.s3.sa-east-1.amazonaws.com/acom/casa/acozinha.jpg"
               alt="pousadacozinha"
             />
+            <img
+              src="https://vilamarinellajeri.s3.sa-east-1.amazonaws.com/acom/casa/acozinha.jpg"
+              alt="pousadacozinha"
+            />
           </div>
         </div>
         <div className="flex items-center leading-snug text-white">
-          <div className="text-justify px-8 md:px-0 md:pe-8 mt-4 md:mb-0">
-            <h1 className="text-2xl mb-3">{t("pousada.title")}</h1>
-            <p>{t("home.viladesc")}</p>
+          <div className="text-justify md:text-left px-8 md:px-0 md:pe-8 mt-4 md:mb-0">
+            <h1 className="text-xl uppercase mb-3 text-center md:text-left">
+              {t("pousada.title")}
+            </h1>
+            <p className="text-[14px]">{t("home.viladesc")}</p>
           </div>
         </div>
       </div>

@@ -79,7 +79,7 @@ const Footer = () => {
             </div>
           </div>
         </div>
-        <div className="text-xs ms-2">
+        <div className="text-xs ms-2 mb-2">
           <button
             className="hover:underline"
             onClick={() => setShowModal(true)}
@@ -87,7 +87,7 @@ const Footer = () => {
             {t("footer.privacy")}
           </button>
         </div>
-        <div className="text-xs ms-2">
+        <div className="text-xs ms-2 mb-2">
           <a
             href="https://www.linkedin.com/in/ligia-prix-32ab5868/"
             target="_blank"

@@ -38,7 +38,7 @@ const Acomodacoes = () => {
         </div>
         <div className="flex flex-wrap content-center">
           <div className="text-justify text-white mb-4 px-2 mt-4 ms-4">
-            <h1 className="text-2xl mb-3">{t("acom.title2")}</h1>
+            <h1 className="text-xl mb-3 uppercase">{t("acom.title2")}</h1>
             <p>{t("acom.desc2")}</p>
             <div className="flex items-center">
               <FaPeopleRoof />
@@ -54,8 +54,8 @@ const Acomodacoes = () => {
           <Carousel slides={slides1} />
         </div>
         <div className="flex flex-wrap content-center">
-          <div className="text-justify text-cyan-800 font-medium px-2 mt-4 me-4">
-            <h1 className="text-2xl mb-3">{t("acom.title3")}</h1>
+          <div className="text-justify text-cyan-800 px-2 mt-4 me-4">
+            <h1 className="text-xl mb-3 uppercase">{t("acom.title3")}</h1>
             <p className="">{t("acom.desc3")}</p>
             <div className="flex items-center">
               <FaPeopleRoof />

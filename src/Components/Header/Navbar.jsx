@@ -36,14 +36,9 @@ const Navbar = () => {
   } */
 
   return (
-    <div
-      onClick={handleNav}
-      className={
-        "w-full flex sm:min-h-[90px] md:min-h-[110px] items-center justify-around absolute text-cyan-800 bg-white/[0.75] font-medium"
-      }
-    >
+    <div className="fixed top-0 z-20 w-full flex sm:min-h-[80px] md:min-h-[85px] items-center justify-around text-cyan-800 bg-white/[0.80] text-base">
       <div className="text-center sm:-ml-3 lg:ml-0">
-        <Link to="/" className="font-calligra text-4xl font-semibold">
+        <Link to="/" className="font-calligra text-3xl">
           Vila Marinella
         </Link>
 
@@ -52,22 +47,22 @@ const Navbar = () => {
       <div>
         <div>
           <ul className="hidden md:flex px-4 text-center">
-            <li className="lg:px-10 md:px-3">
-              <NavLink to="/Apousada" className="hover:underline">
+            <li className="lg:px-8 md:px-3">
+              <NavLink to="/apousada" className="hover:underline">
                 {t("nav.house")}
               </NavLink>
             </li>
-            <li className="lg:px-10 md:px-3">
-              <NavLink to="/Acomodacoes" className="hover:underline">
+            <li className="lg:px-8 md:px-3">
+              <NavLink to="/acomodacoes" className="hover:underline">
                 {t("nav.accommodation")}
               </NavLink>
             </li>
-            <li className="lg:px-10 md:px-3">
-              <NavLink to="/Avila" className="hover:underline">
+            <li className="lg:px-8 md:px-3">
+              <NavLink to="/avila" className="hover:underline">
                 {t("nav.village")}
               </NavLink>
             </li>
-            <li className="lg:px-10 md:px-3">
+            <li className="lg:px-8 md:px-3">
               <Link
                 to={"https://www.booking.com/hotel/br/villa-marinella"}
                 className="hover:underline"
@@ -82,7 +77,7 @@ const Navbar = () => {
                 onClick={() => {
                   handleClick("en");
                 }}
-                className="px-6 hover:underline"
+                className="px-2 hover:underline"
               >
                 EN
               </button>
@@ -92,7 +87,7 @@ const Navbar = () => {
                 onClick={() => {
                   handleClick("pt");
                 }}
-                className="px-6 hover:underline"
+                className="px-2 hover:underline"
               >
                 PT
               </button>
@@ -126,12 +121,12 @@ const Navbar = () => {
             <NavLink to="/reservas">{t("nav.reservation")}</NavLink>
           </li>
           <li>
-            <button onClick={() => handleClick("en")} className="mb-6">
+            <button onClick={() => handleClick("en")} className="py-6">
               EN
             </button>
           </li>
           <li>
-            <button onClick={() => handleClick("pt")} className="px-6">
+            <button onClick={() => handleClick("pt")} className="">
               PT
             </button>
           </li>

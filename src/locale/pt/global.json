@@ -6,11 +6,11 @@
     "reservation": "Reservas"
   },
   "home": {
-    "title": "VIiva seus melhores dias na Vila",
+    "title": "Viva seus melhores dias na Vila",
     "desc": "Na Vila Marinella você vive seus melhores dias em Jericoacoara com a sua família, amigos ou ao lado da pessoa que você ama.",
-    "viladesc": "A vila é composta de: 🏠 Casa com 120m² para até 6 pessoas, com três quartos, sendo uma uma suíte com uma cama de casal grande e outros dois quartos com camas de solteiro. A casa conta com ar-condicionado em todos os quartos, cozinha e sala completas, churrasqueira e um terraço com vista para a vila de Jericoacoara. 🛌 3 suítes privativas com varanda, cama de casal grande, banheiro privativo, TV, ar-condicionado e frigobar.",
+    "viladesc": "A Vila conta com dois tipos de acomodações, uma casa para até 6 pessoas, com três quartos, sendo uma uma suíte. A casa possui com ar-condicionado nos três quartos, uma cozinha e sala completas, churrasqueira e um terraço com vista para a vila de Jericoacoara. A Vila possui também três suítes individuais e privativas com varanda, cama de casal, banheiro privativo, TV, ar-condicionado e frigobar.",
     "title2": "A Vila de Jericoacoara",
-    "desc2": "Jericoacoara é uma pequena vila de pescadores, centro do windsurf e kitesurf, no Ceará, Brasil."
+    "desc2": "Localizada no Ceará, centro do windsurf e kitesurf, Jeri já foi eleita uma das praias mais belas do Brasil"
   },
   "footer": {
     "location": "Localização",
@@ -21,17 +21,17 @@
   },
   "pousada": {
     "title": "A Pousada",
-    "desc": "A pousada está localizada em uma área tranquila de Jericoacoara a apenas 500m da Rua Principal e 1km da praia. A pousada conta com dois tipos de hospedagem: uma casa com 120m², 3 quartos sendo uma suíte, 2 banheiros compartilhados, sala e cozinha completas e uma área com churrasqueira. Todos os quartos possuem ar-condicionado e WiFi gratuito. A pousada também conta com 3 suítes independentes, com banheiro privativo, varanda, ar-condicionado, frigobar, TV e Wifi. Para completar sua experiência, a Vila conta com um belo terraço com vista para a para de Jericoacoara"
+    "desc": "A pousada está localizada em uma área tranquila de Jericoacoara a apenas 500m da Rua Principal e 1km da praia. São duas opções de acomodações: uma casa com três quartos sendo uma suíte, dois banheiros compartilhados, sala e cozinha completa e uma área com churrasqueira. Todos os quartos possuem ar-condicionado e WiFi gratuito. Na parte de trás a pousada também conta com três suítes independentes, com banheiro privativo, varanda, ar-condicionado, frigobar, TV e Wifi. Para completar sua experiência, a Vila conta com um belo terraço com vista para a para de Jericoacoara"
   },
   "acom": {
     "title": "Acomodações",
-    "desc": "A Vila possui dois tipos de acomodações: uma casa com três quartos para até 6 pessoas, e 3 suítes privativas para 2 pessoas",
+    "desc": "A Vila possui dois tipos de acomodações: uma casa com três quartos para até 6 pessoas, e três suítes privativas para até 2 pessoas",
     "title2": "A Casa",
-    "desc2": " Casa com 120m² para até 6 pessoas, com três quartos, sendo uma suíte com uma cama de casal grande e outros dois quartos com camas de solteiro. A casa conta com ar-condicionado em todos os quartos, cozinha e sala completas, churrasqueira e um terraço com vista para a vila de Jericoacoara.",
+    "desc2": "Casa para até 6 pessoas, com três quartos, sendo uma suíte. A casa conta com ar-condicionado em todos os quartos, sala, cozinha completa, churrasqueira e um terraço com vista para a vila de Jericoacoara.",
     "people": "6 pessoas",
     "people1": "2 pessoas",
     "title3": "Suítes",
-    "desc3": "3 suítes privativas para 2 pessoas, com banheiro, ar-condicionado, TV e frigobar."
+    "desc3": "Três suítes privativas para 2 pessoas, com banheiro, varanda, ar-condicionado, TV e frigobar."
   },
   "avila": {
     "title": "Jericoacoara",

@@ -2,7 +2,7 @@ import Divider from "../Concept/Divider";
 import { useTranslation } from "react-i18next";
 import Hero from "../Header/Hero";
 
-const AVila = () => {
+const Avila = () => {
   const {
     t,
     i18n: { changeLanguage, language },
@@ -89,4 +89,4 @@ const AVila = () => {
   );
 };
 
-export default AVila;
+export default Avila;

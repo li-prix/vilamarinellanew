@@ -1,4 +1,4 @@
-export { default as Home } from "./Home";
-export { default as APousada } from "./APousada";
-export { default as Acomodacoes } from "./Acomodacoes";
-export { default as AVila } from "./AVila";
+export { default as Home } from "./home";
+export { default as Apousada } from "./apousada";
+export { default as Acomodacoes } from "./acomodacoes";
+export { default as AVila } from "./avila";

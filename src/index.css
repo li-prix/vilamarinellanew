@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 .my-h1 {
-  @apply text-center font-semibold text-3xl text-cyan-800 mb-5;
+  @apply text-center text-2xl uppercase text-cyan-800 mb-8;
 }
 .my-pd {
-  @apply lg:w-4/5 justify-center text-center font-medium leading-snug text-cyan-800;
+  @apply lg:w-3/4 justify-center text-center leading-snug text-cyan-800;
 }
